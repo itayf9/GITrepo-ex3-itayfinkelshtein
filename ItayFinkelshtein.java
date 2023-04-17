@@ -5,7 +5,7 @@ public class ItayFinkelshtein {
 	public static void main(String[] args) {
 		
 		for (int i = 1; i <= 10; i++) {
-			System.out.println("Itay Finkelshtein");
+			System.out.println("Itay Finkelshtein" + i);
 		}
 	}
 }
